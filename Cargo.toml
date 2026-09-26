@@ -1,0 +1,8 @@
+[package]
+name = "lossless-cut-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Zero-overhead Rust engine for lossless video/audio cutting inspired by LosslessCut"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
